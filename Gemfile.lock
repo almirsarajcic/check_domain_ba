@@ -21,8 +21,10 @@ GEM
     nokogiri (1.6.3.1-x86-mingw32)
       mini_portile (= 0.6.0)
     ntlm-http (0.1.1)
+    trollop (2.0)
     unf (0.1.4)
       unf_ext
+    unf_ext (0.0.6)
     unf_ext (0.0.6-x86-mingw32)
     webrobots (0.1.1)
 
@@ -31,3 +33,4 @@ PLATFORMS
 
 DEPENDENCIES
   mechanize
+  trollop
